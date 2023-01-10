@@ -1,0 +1,20 @@
+current directory: /Users/maengjieon/Downloads/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/Users/maengjieon/.rbenv/versions/2.7.7/bin/ruby -I /Users/maengjieon/.rbenv/versions/2.7.7/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /Users/maengjieon/Downloads/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230109-24584-10j27j9 sitelibdir\=./.gem.20230109-24584-10j27j9 clean
+
+current directory: /Users/maengjieon/Downloads/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230109-24584-10j27j9 sitelibdir\=./.gem.20230109-24584-10j27j9
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/maengjieon/Downloads/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230109-24584-10j27j9 sitelibdir\=./.gem.20230109-24584-10j27j9 install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20230109-24584-10j27j9
+
+current directory: /Users/maengjieon/Downloads/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230109-24584-10j27j9 sitelibdir\=./.gem.20230109-24584-10j27j9 clean

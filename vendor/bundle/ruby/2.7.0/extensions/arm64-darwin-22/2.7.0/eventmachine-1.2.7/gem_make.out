@@ -1,0 +1,20 @@
+current directory: /Users/maengjieon/Downloads/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/maengjieon/.rbenv/versions/2.7.7/bin/ruby -I /Users/maengjieon/.rbenv/versions/2.7.7/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /Users/maengjieon/Downloads/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230109-24584-4qx79d sitelibdir\=./.gem.20230109-24584-4qx79d clean
+
+current directory: /Users/maengjieon/Downloads/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230109-24584-4qx79d sitelibdir\=./.gem.20230109-24584-4qx79d
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/maengjieon/Downloads/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230109-24584-4qx79d sitelibdir\=./.gem.20230109-24584-4qx79d install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20230109-24584-4qx79d
+
+current directory: /Users/maengjieon/Downloads/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230109-24584-4qx79d sitelibdir\=./.gem.20230109-24584-4qx79d clean
